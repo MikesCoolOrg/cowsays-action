@@ -1,6 +1,6 @@
 FROM ruby:2
 
-LABEL "name"="Cowsays Action"
+LABEL "name"="Cowsays Action Test"
 LABEL "version"="1.0.0"
 
 LABEL "com.github.actions.icon"="message-circle"
